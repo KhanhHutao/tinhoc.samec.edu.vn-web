@@ -1,0 +1,46 @@
+# SAM EDTECH
+
+> SAM EDTECH (tinhoc.samec.edu.vn) is a professional IT and programming training center in Vietnam, specializing in international IT certificates for kids (IC3), STEM Robotics, and practical office IT (Word, Excel, PowerPoint) for students and working professionals.
+
+## Main Navigation
+
+- [Trang chủ (Home)](https://tinhoc.samec.edu.vn/) - Overview of SAM EDTECH courses, educational facilities, student testimonials, and active learning approach.
+- [Khóa học (Courses)](https://tinhoc.samec.edu.vn/khoa-hoc) - Directory of available IT and programming courses with filters for target audiences.
+- [Giới thiệu (About Us)](https://tinhoc.samec.edu.vn/gioi-thieu) - Learn about SAM EDTECH's system of centers, teaching philosophy, training commitments, and core values.
+- [Liên hệ (Contact)](https://tinhoc.samec.edu.vn/lien-he) - Comprehensive list of campus addresses, contact phone numbers, email support, and interactive Google Maps links for all branches.
+- [Đăng ký tư vấn (Register)](https://tinhoc.samec.edu.vn/dang-ky-tu-van) - Request consultation, register for classes, and submit learning requests via the online form.
+
+## Courses (Chi tiết Khóa học)
+
+### [Tin học thiếu nhi - Chứng chỉ quốc tế](https://tinhoc.samec.edu.vn/khoa-hoc/tin-hoc-thieu-nhi)
+- **Đối tượng (Target):** Học sinh 6–11 tuổi.
+- **Thời lượng (Duration):** 12 tuần.
+- **Nội dung chính:** Làm quen thiết bị, kỹ năng gõ phím 10 ngón, soạn thảo văn bản Word, thiết kế slide PowerPoint, sử dụng Internet an toàn & tìm kiếm thông tin đúng cách.
+
+### [Lập trình viên nhí STEM Robotics](https://tinhoc.samec.edu.vn/khoa-hoc/lap-trinh-vien-nhi-stem-robotics)
+- **Đối tượng (Target):** Học sinh 8–15 tuổi.
+- **Thời lượng (Duration):** 16 tuần.
+- **Nội dung chính:** Tư duy thuật toán thông qua dự án kéo thả (Scratch/Blockly) hoặc ngôn ngữ lập trình phù hợp độ tuổi, thiết kế & điều khiển robot, làm việc nhóm, giải quyết vấn đề qua thực hành.
+
+### [Tin học văn phòng cho người đi làm](https://tinhoc.samec.edu.vn/khoa-hoc/tin-hoc-van-phong-cho-nguoi-di-lam)
+- **Đối tượng (Target):** Sinh viên chuẩn bị ra trường, nhân viên văn phòng, người đi làm cần nâng cao năng suất.
+- **Thời lượng (Duration):** 6–10 tuần.
+- **Nội dung chính:** Định dạng văn bản hành chính đúng chuẩn (Word), xử lý dữ liệu và lập báo cáo tài chính/thống kê với hàm & PivotTable (Excel), thiết kế slide thuyết trình ấn tượng (PowerPoint).
+
+## Contact & Campuses (Thông tin liên hệ & Hệ thống cơ sở)
+
+### Fast Contact Channels
+- **Hotline:** [0888.19.22.66](tel:0888192266)
+- **Zalo:** [0888.19.22.66](https://zalo.me/0888192266)
+- **Email:** [tuyensinh@samec.edu.vn](mailto:tuyensinh@samec.edu.vn)
+- **Facebook Fanpage:** [samec.edu.vn](https://www.facebook.com/samec.edu.vn)
+
+### Campuses List (Danh sách cơ sở)
+- **Cơ sở 1 (Trụ sở chính):** A15, Khu đô thị Hưng Phú, P. Phú Tân, T. Vĩnh Long. Hotline: [0888.19.22.66](tel:0888192266)
+- **Cơ sở 2:** B19, Khu đô thị Hưng Phú, P. Phú Tân, T. Vĩnh Long. Hotline: [0888.19.22.66](tel:0888192266)
+- **Cơ sở 3:** 22G2-23G2, Đường DN5, KDC An Sương, Quận 12, TPHCM. Hotline: [0899.20.20.99](tel:0899202099)
+- **Cơ sở 4:** Số 170, ấp Kinh Ngoài, xã Giồng Trôm, tỉnh Vĩnh Long. Hotline: [0858.25.22.66](tel:0858252266)
+- **Cơ sở 5:** Thửa đất số 260, Tờ bản đồ số 10, Khu phố Lộc Du, Phường Trảng Bàng, Tỉnh Tây Ninh. Hotline: [0889.19.22.66](tel:0889192266)
+- **Trung tâm STEM - Kỹ năng sống SAM Bến Tre:** C19, Khu đô thị Hưng Phú, P. Phú Tân, T. Vĩnh Long. Hotline: [0888.69.22.66](tel:0888692266)
+- **Trung tâm Dạy thêm - Dạy kèm - Luyện thi KIM MEKONG:** C17, Khu đô thị Hưng Phú, P. Phú Tân, T. Vĩnh Long. Hotline: [0888.69.22.66](tel:0888692266)
+- **Trung tâm Ngoại ngữ - Tin học SAM Tân Hào:** Số 405, ấp Hưng Bình A, xã Tân Hào, tỉnh Vĩnh Long. Hotline: [0967.14.91.69](tel:0967149169)

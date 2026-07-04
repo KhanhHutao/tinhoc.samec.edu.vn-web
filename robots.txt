@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tinhoc.samec.edu.vn/sitemap.xml
